@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor-caja{
+    margin: auto;
+    margin-top: 40px;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+ 
+    
+}
+.logo{
+    width: 100px;
+    height: 80px;
+    margin: auto;
+    
+}
+.logo img{
+    width:100%;
+}
+.contenedor-caja{
+    width: 400px;
+}
+.text h3{
+    font-size: 25px;
+    text-align: center;
+}
